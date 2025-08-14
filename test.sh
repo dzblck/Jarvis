@@ -13,3 +13,12 @@ python3 -m unittest discover
 echo "unit tests checked"
 echo ""
 )
+
+./jarvis
+Jarvis' sound is by default disabled.
+In order to let Jarvis talk out loud type: enable sound
+Type 'help' for a list of available actions.
+
+~> Hi, what can I do for you?
+helloworld Jarvis is cool!
+jarvis is cool
